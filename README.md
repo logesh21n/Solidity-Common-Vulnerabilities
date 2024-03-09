@@ -6,7 +6,7 @@ In this repository, we've compiled a comprehensive list of common vulnerabilitie
 
 **Why Learn This?**
 
-By learning about common vulnerabilities in Solidity, you'll gain a fundamental understanding of potential risks and how to mitigate them. Feel free to ask questions and discuss any doubts in the Discussions tab. If you spot any mistakes, let us know in the Discussions tab as well.
+By learning these common vulnerabilities in Solidity, you'll gain a fundamental understanding of potential risks and how to mitigate them. Feel free to ask questions and discuss any doubts in the Discussions tab. If you spot any mistakes, let us know in the Discussions tab as well.
 
 **Getting Started:**
 
